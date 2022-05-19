@@ -1,2 +1,2 @@
-# Resume-10-Practice
-Practice repo
+Web Design Final Resume
+link to deployed site: https://mirriv.github.io/My-Own-Challenge-9/
